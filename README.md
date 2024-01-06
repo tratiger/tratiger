@@ -1,5 +1,6 @@
 # University student in Japan👋
-### Just 20 years old 
+### I am studying every day to become a security engineer.
+### My hobby is deep learning and creating web applications.
 ### Feel free to contact me anytime!👍
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tratiger&show_icons=true&theme=vue-dark)
