@@ -21,6 +21,8 @@
 <br>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> <br>
+<img alt="dsmark" align="right"  height="10%" width="10%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tratiger&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tratiger&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,7 +53,7 @@
  ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
 
-# NOW TRAINING
+# <img alt="Hola" height="30px" width="30px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,fastapi,sqlite,mysql,docker,laravel,php,jquery,aws,azure,vite" /> <br /><br />
 
