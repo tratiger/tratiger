@@ -1,4 +1,4 @@
-# University student in Japan👋
+# University student in Japan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ### I am studying every day to become a security engineer.
 ### My hobby is deep learning and creating web applications.
 ### Feel free to contact me anytime!👍
@@ -20,7 +20,7 @@
 </p>
 
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills 
 
 <img src="https://skillicons.dev/icons?i=processing,c,java,python,fastapi,typescript,docker,vscode,github,discord,burpsuite" /> <br /><br />
 
