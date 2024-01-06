@@ -29,7 +29,7 @@
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,docker,laravel,cakephp,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,docker,laravel,cakephp,php,gutlab,jquery,aws,azure,vite" /> <br /><br />
 
 
 
