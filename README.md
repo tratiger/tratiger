@@ -22,7 +22,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=processing,c,java,python,fastapi,typescript,docker,vscode,github,discord,burp" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=processing,c,java,python,fastapi,typescript,docker,vscode,github,discord,burpsuite" /> <br /><br />
 
  ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
