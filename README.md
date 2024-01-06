@@ -37,7 +37,7 @@
 
 [![My Twitter Followers](https://badgen.net/twitter/follow/tt)](https://twitter.com/tt)
 
-<a href="https://app.daily.dev/tratiger"><img src="https://api.daily.dev/devcards/0aab628de02b4165801396766c3a991c.png?r=qmn" width="300" alt="tt's Dev Card"/></a>
+<a href="https://app.daily.dev/tratiger"><img src="https://api.daily.dev/devcards/0aab628de02b4165801396766c3a991c.png?r=uwy" width="300" alt="tt's Dev Card"/></a>
 
 
 
