@@ -22,14 +22,14 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=processing,python,react,next,typescript,mysql,laravel,docker,vscode,github,discode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=processing,python,Fastapi,typescript,CentOS,ubuntu,docker,vscode,github,discode" /> <br /><br />
 
  ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,docker,laravel,cakephp,php,gutlab,jquery,aws,azure,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,Fastapi,sqlite,mysql,docker,laravel,cakephp,php,gutlab,jquery,aws,azure,vite" /> <br /><br />
 
 
 
